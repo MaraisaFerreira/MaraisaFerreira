@@ -16,7 +16,7 @@
   <img align="center" alt="MaraisaFerreira-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="MaraisaFerreira-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="MaraisaFerreira-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="MaraisaFerreira-Django" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+  <img align="center" alt="MaraisaFerreira-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div>
   
 ##
@@ -33,9 +33,10 @@
   <h3>👉🏻 More:</h3>
   
 - 🔭 I’m currently working on:
-    - JavaScript & React
+    - Backend: NodeJS / Express / MySQL / MongoDB
+    - Frontend: ReactJS
 - 🌱 I’m currently learning:
-    - Focused on getting better at React!
+    - Focused on getting better at React & Node!
 - 🔎 Interested in learning too:
     - TypeScript / Sass / ...
 
