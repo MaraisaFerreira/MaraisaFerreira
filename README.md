@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there, welcome to my Github! 👋🏻</h3>
-  <h3>I'm Maraísa Ferreira, web developer, focused on NodeJS and React!</h3>
+  <h3>I'm Maraísa Ferreira, web developer, focused on Python, NodeJS and React!</h3>
 </div>
   
 <br>
