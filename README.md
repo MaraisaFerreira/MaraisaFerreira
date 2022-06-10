@@ -34,10 +34,10 @@
   <h3>👉🏻 More:</h3>
   
 - 🔭 I’m currently working on:
-    - Backend: Python / Django / NodeJS / Express / MySQL / MongoDB
     - Frontend: ReactJS
+    - Backend: NodeJS / Python 
 - 🌱 I’m currently learning:
-    - Focused on getting better at React & Node!
+    - Focused on getting better at React & Node JS!
 - 🔎 Interested in learning too:
     - TypeScript / Sass / ...
 
