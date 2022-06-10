@@ -37,7 +37,7 @@
     - Backend: Python / Django / NodeJS / Express / MySQL / MongoDB
     - Frontend: ReactJS
 - 🌱 I’m currently learning:
-    - Focused on getting better at Python & Node!
+    - Focused on getting better at React & Node!
 - 🔎 Interested in learning too:
     - TypeScript / Sass / ...
 
