@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there, welcome to my Github! 👋🏻</h3>
-  <h3>I'm Maraísa Ferreira, web developer, focused on React, Node JS and Python!</h3>
+  <h3>I'm Maraísa Ferreira, web developer, focused on Node JS!</h3>
 </div>
   
 <br>
@@ -11,8 +11,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="MaraisaFerreira-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MaraisaFerreira-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="MaraisaFerreira-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="MaraisaFerreira-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="MaraisaFerreira-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="MaraisaFerreira-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="MaraisaFerreira-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -37,7 +37,7 @@
     - Frontend: ReactJS
     - Backend: NodeJS / Python 
 - 🌱 I’m currently learning:
-    - Focused on getting better at React & Node JS!
+    - Focused on getting better at Node JS & React JS!
 - 🔎 Interested in learning too:
-    - TypeScript / Sass / ...
+    - TypeScript ...
 
