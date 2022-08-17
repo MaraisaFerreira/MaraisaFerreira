@@ -33,7 +33,7 @@
   <h3>👉🏻 More:</h3>
   
 - 🔭 I’m currently working on:
-    - Backend: Python / NodeJS
+    - Backend: Python / NodeJS 
 - 🌱 I’m currently learning:
     - Focused on getting better at Python & Node JS!
 - 🔎 Interested in learning too:
