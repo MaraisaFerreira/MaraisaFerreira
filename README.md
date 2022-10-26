@@ -16,16 +16,21 @@
 ##
 <div align="center" style="display: inline_block">
   <h3>Main Skills</h3>
+  <div>
   <img align="center" alt="MaraisaFerreira-Python" height="30" src="https://img.shields.io/badge/Python-F0C426?style=for-the-badge&logo=python&logoColor=blue">
   <img align="center" alt="MaraisaFerreira-Django" height="30"  src="https://img.shields.io/badge/Django-0C6141?style=for-the-badge&logo=django&logoColor=green" >
   <img align="center" alt="MaraisaFerreira-Selenium" height="30" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" >
+  <img align="center" alt="MaraisaFerreira-Pandas" height="30" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" >
   <img align="center" alt="MaraisaFerreira-MySQL" height="30" src="https://img.shields.io/badge/MySQL-0b89bf?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="MaraisaFerreira-JS" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </div>
+  <br>
+  <div>
+  <img align="center" alt="MaraisaFerreira-JS" height="30" src="https://img.shields.io/badge/JavaScript-71736e?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="MaraisaFerreira-Node" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="MaraisaFerreira-React" height="30" src="https://img.shields.io/badge/React-2f3e61?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="MaraisaFerreira-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="MaraisaFerreira-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  
+  </div>
 </div>
   
 ##
