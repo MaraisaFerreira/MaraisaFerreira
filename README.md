@@ -30,7 +30,6 @@
   <img align="center" alt="MaraisaFerreira-MySQL" height="30" src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B">
   <img align="center" alt="MaraisaFerreira-Django" height="30"  src="https://img.shields.io/badge/Django-0C6141?style=for-the-badge&logo=django&logoColor=green" >
   <img align="center" alt="MaraisaFerreira-Selenium" height="30" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" >
-  <img align="center" alt="MaraisaFerreira-Pandas" height="30" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" >
   </div>
 </div>
   
