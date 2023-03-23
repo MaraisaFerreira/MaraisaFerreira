@@ -1,7 +1,8 @@
 <div align="center">
   <h3>Hi there, welcome to my Github! 👋🏻</h3>
   <h3>I'm Maraísa Ferreira, web developer, focused on JavaScript!</h3> 
-  <img height="50px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+  <img height="80px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <img height="80px" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
 </div>
   
 ##
