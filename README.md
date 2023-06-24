@@ -12,7 +12,6 @@
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=tokyonight"/> 
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maraisaferreira&theme=tokyonight"/>
   <br><br>
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maraisaferreira&theme=tokyonight"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maraisaferreira&theme=tokyonight&hide_border=true"/>
 </div>
 
@@ -23,7 +22,7 @@
   <div>
   <img align="center" alt="MaraisaFerreira-JS" height="30" src="https://img.shields.io/badge/JavaScript-80878F?style=for-the-badge&logo=javascript&logoColor=F0DB4F">
     <img align="center" alt="MaraisaFerreira-Node" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  #(<img align="center" alt="MaraisaFerreira-MySQL" height="30" src="https://img.shields.io/badge/MySQL-0b89bf?style=for-the-badge&logo=mysql&logoColor=white">)
+  <img align="center" alt="MaraisaFerreira-MySQL" height="30" src="https://img.shields.io/badge/MySQL-0b89bf?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="MaraisaFerreira-MySQL" height="30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   </div>
   <br>
