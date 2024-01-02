@@ -56,13 +56,15 @@
   <p>- I’m currently working on: <strong>Backend: Python</strong></p>
   <img height="50px" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
   <br><br>
-  <p>- Interested in learning too: <strong>TypeScript, AWS, Docker ...</strong></p>
-  <img height="50px" src="https://icongr.am/simple/flask.svg?size=128&color=bf1212&colored=false">
+  <p>- Interested in learning too: <strong>Flask, Pandas, AWS, Docker, TypeScript...</strong></p>
+  <img height="50px" src="https://icongr.am/simple/flask.svg?size=128&color=000000&colored=false">
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img height="50px" src="https://icongr.am/simple/pandas.svg?size=128&color=3620d9&colored=false">
-  <img height="50px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img height="50px" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor">
   <span>&nbsp;&nbsp;&nbsp;</span>
   <img height="50px" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt='Docker'>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img height="40px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
 </div>
 
