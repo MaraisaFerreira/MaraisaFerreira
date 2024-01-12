@@ -11,8 +11,6 @@
   <a href="https://github.com/maraisaferreira">
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=tokyonight"/> 
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maraisaferreira&theme=tokyonight"/>
-  <br><br>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maraisaferreira&theme=tokyonight&hide_border=true"/>
 </div>
 
 ##
