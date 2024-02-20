@@ -13,6 +13,8 @@
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maraisaferreira&theme=tokyonight"/>
 </div>
 
+![snake gif](https://github.com/MaraisaFerreira/MaraisaFerreira/blob/output/github-contribution-grid-snake.svg)
+
 ##
 <div align="center" style="display: inline_block">
   <h3>Main Skills</h3>
@@ -29,7 +31,6 @@
   <img align="center" alt="MaraisaFerreira-JS" height="30" src="https://img.shields.io/badge/JavaScript-80878F?style=for-the-badge&logo=javascript&logoColor=F0DB4F">
   <img align="center" alt="MaraisaFerreira-Node" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   </div>
- 
  
   <h4>Frontend:</h4>
   <div>
