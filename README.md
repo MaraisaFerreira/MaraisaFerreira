@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://github.com/maraisaferreira">
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=tokyonight"/> 
-  <br>
+  <br><br>
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maraisaferreira&theme=tokyonight"/> 
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maraisaferreira&theme=tokyonight"/>
   </a>
@@ -24,10 +24,10 @@
   <h3>Main Skills</h3>
   <h4>Frontend:</h4>
   <div>
-    <img align="center" alt="MaraisaFerreira-React" height="30" src="https://img.shields.io/badge/React-2f3e61?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="MaraisaFerreira-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="MaraisaFerreira-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="MaraisaFerreira-JS" height="30" src="https://img.shields.io/badge/JavaScript-80878F?style=for-the-badge&logo=javascript&logoColor=F0DB4F">
+    <img align="center" alt="MaraisaFerreira-React" height="30" src="https://img.shields.io/badge/React-2f3e61?&logo=react&logoColor=61DAFB">
+    <img align="center" alt="MaraisaFerreira-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white">
+    <img align="center" alt="MaraisaFerreira-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white">
+    <img align="center" alt="MaraisaFerreira-JS" height="30" src="https://shields.io/badge/JavaScript-dba309?logo=JavaScript&logoColor=white">
   </div>
     <br>
   <h4>Backend:</h4>
