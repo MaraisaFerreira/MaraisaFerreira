@@ -60,8 +60,13 @@
   <p>- I’m currently working on: <strong>Frontend - React</strong></p>
   <img height="50px" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   <br><br>
-  <p>- Interested in learning too: <strong>TypeScript, Docker, AWS...</strong></p>
-  <img height="40px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
+  <p>- I’m learning now: <strong>TypeScript</strong></p>
+  <img height="50px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
+  <br><br>
+  <p>- Interested in learning too: <strong>React Native, Electron, Docker, AWS...</strong></p>
+  <img height="40px" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img height="40px" src="https://icongr.am/devicon/electron-original.svg?size=128&color=currentColor">
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img height="50px" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt='Docker'>
   <span>&nbsp;&nbsp;&nbsp;</span>
