@@ -2,7 +2,10 @@
   <h3>Hi there, welcome to my Github! 👋🏻</h3>
   <h3>I'm Maraísa Ferreira, web developer, focused on Frontend!</h3> 
   <img height="80px" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img height="80px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img height="80px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
 </div>
   
 ##
@@ -10,7 +13,10 @@
 <div align="center">
   <a href="https://github.com/maraisaferreira">
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=tokyonight"/> 
+  <br>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maraisaferreira&theme=tokyonight"/> 
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maraisaferreira&theme=tokyonight"/>
+  </a>
 </div>
 
 ##
