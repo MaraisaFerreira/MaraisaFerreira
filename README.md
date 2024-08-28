@@ -14,7 +14,7 @@
   <a href="https://github.com/maraisaferreira">
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=tokyonight"/> 
   <br><br>
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maraisaferreira&theme=tokyonight"/> 
+  <!-- <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maraisaferreira&theme=tokyonight"/> -->
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maraisaferreira&theme=tokyonight"/>
   </a>
 </div>
@@ -64,8 +64,6 @@
   <img height="50px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
   <br><br>
   <p>- Interested in learning too: <strong>React Native, Electron, Docker, AWS...</strong></p>
-  <img height="40px" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img height="40px" src="https://icongr.am/devicon/electron-original.svg?size=128&color=currentColor">
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img height="50px" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt='Docker'>
