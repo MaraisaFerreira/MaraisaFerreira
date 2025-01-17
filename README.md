@@ -29,7 +29,7 @@
   <div>
     <img align="center" alt="MaraisaFerreira-React" height="30" src="https://img.shields.io/badge/-ReactJs-3178C6?logo=react&logoColor=white">
     <img align="center" alt="MaraisaFerreira-JS" height="30" src="https://shields.io/badge/JavaScript-dba309?logo=JavaScript&logoColor=white">
-    <img align="center" alt="MaraisaFerreira-JS" height="30" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF">
+    <img align="center" alt="MaraisaFerreira-TS" height="30" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF">
     <img align="center" alt="MaraisaFerreira-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white">
     <img align="center" alt="MaraisaFerreira-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white"> 
   </div>
@@ -37,11 +37,11 @@
   <h4>Backend:</h4>
    <div>
      <img align="center" alt="MaraisaFerreira-Node" height="30" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-     <img align="center" alt="MaraisaFerreira-express" height="30" src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white?">
+     <img align="center" alt="MaraisaFerreira-Express" height="30" src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white?">
     <img align="center" alt="MaraisaFerreira-SQL" height="30" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1">
-    <img align="center" alt="MaraisaFerreira-MySQL" height="30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+    <img align="center" alt="MaraisaFerreira-MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
     <br><br>
-    <img align="center" alt="MaraisaFerreira-MySQL" height="30" src="https://img.shields.io/badge/Python-4B8BBE?logo=python&logoColor=white">
+    <img align="center" alt="MaraisaFerreira-Python" height="30" src="https://img.shields.io/badge/Python-4B8BBE?logo=python&logoColor=white">
     <img align="center" alt="MaraisaFerreira-Django" height="30"  src="https://img.shields.io/badge/Django-0C6141?logo=django&logoColor=white" >
   </div>
 </div>
