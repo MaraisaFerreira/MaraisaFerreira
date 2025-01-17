@@ -1,9 +1,12 @@
 <div align="center">
   <h3>Hi there, welcome to my Github! 👋🏻</h3>
-  <h3>I'm Maraísa Ferreira, web developer, focused on React / Node!</h3> 
+  <h3>I'm Maraísa Ferreira, web developer, focused on Node \ React!</h3> 
+  <br><br>
+  <img height="80px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img height="80px" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img height="80px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <img height="80px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img height="80px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
 </div>
@@ -34,8 +37,8 @@
   <h4>Backend:</h4>
    <div>
      <img align="center" alt="MaraisaFerreira-Node" height="30" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-     <img align="center" alt="MaraisaFerreira-MySQL" height="30" src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white?">
-    <img align="center" alt="MaraisaFerreira-MySQL" height="30" src="https://img.shields.io/badge/MySQL-0b89bf?logo=mysql&logoColor=white">
+     <img align="center" alt="MaraisaFerreira-express" height="30" src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white?">
+    <img align="center" alt="MaraisaFerreira-SQL" height="30" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1">
     <img align="center" alt="MaraisaFerreira-MySQL" height="30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
     <br><br>
     <img align="center" alt="MaraisaFerreira-MySQL" height="30" src="https://img.shields.io/badge/Python-4B8BBE?logo=python&logoColor=white">
