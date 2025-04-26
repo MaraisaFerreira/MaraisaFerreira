@@ -20,10 +20,10 @@
 <div align="center">
   <a href="https://github.com/maraisaferreira">
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=tokyonight"/> 
-  <br><br>
+  <!-- <br><br>
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maraisaferreira&theme=tokyonight"/>
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maraisaferreira&theme=tokyonight"/>
-  </a>
+  </a> -->
 </div>
 
 ##
