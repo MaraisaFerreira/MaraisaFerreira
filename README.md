@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hi there, welcome to my Github! 👋🏻</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&center=true&multiline=true&width=435&lines=Hey+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+welcome+to+my+github!;I'm+Mara%C3%ADsa+Ferreira%2C+Backend+developer." alt="Typing SVG" /></a>
   <h3>I'm Maraísa Ferreira, web developer, focused on Java \ Node \ React!</h3> 
   <br><br>
   <img height="80px" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
@@ -19,7 +19,12 @@
 <br>
 <div align="center">
   <a href="https://github.com/maraisaferreira">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=tokyonight"/> 
+  <img height="156em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=radical&border_radius=5"/><span>&nbsp;&nbsp;&nbsp;</span><img src="https://streak-stats.demolab.com?user=maraisaferreira&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156em" alt="streak graph"  /> <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=maraisaferreira&theme=radical&column=4&row=1&margin-w=5&margin-h=1&no-frame=true" height="150em" alt="trophy graph"  />
+
+  
+ 
   <!-- <br><br>
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maraisaferreira&theme=tokyonight"/>
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maraisaferreira&theme=tokyonight"/>
