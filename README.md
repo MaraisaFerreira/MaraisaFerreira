@@ -16,9 +16,10 @@
 <br>
 <div align="center">
   <a href="https://github.com/maraisaferreira">
-  <img height="156em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=radical&border_radius=5"/><span>&nbsp;&nbsp;&nbsp;</span><img src="https://streak-stats.demolab.com?user=maraisaferreira&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156em" alt="streak graph"  /> <br/><br/>
+  <img height="156em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=dracula&border_radius=5"/><span>&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://streak-stats.demolab.com?user=maraisaferreira&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156em" alt="streak graph"  /> <br/><br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=maraisaferreira&theme=radical&column=4&row=1&margin-w=5&margin-h=1&no-frame=true" height="150em" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=maraisaferreira&theme=dracula&column=4&row=1&margin-w=5&margin-h=1&no-frame=true" height="150em" alt="trophy graph"  />
 
   
  
