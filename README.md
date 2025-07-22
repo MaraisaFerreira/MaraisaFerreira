@@ -1,6 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&center=true&multiline=true&width=435&lines=Hey+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+welcome+to+my+github!;I'm+Mara%C3%ADsa+Ferreira%2C+Backend+developer." alt="Typing SVG" /></a>
-  <h3>I'm Maraísa Ferreira, web developer, focused on Java \ Node \ React!</h3> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=50&color=AE81FF&center=true&width=800&height=100&lines=Hey+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+welcome+to+my+github!;I'm+Mara%C3%ADsa+Ferreira%2C+backend+developer." alt="Maraísa Ferreira, backend developer." /></a>
   <br><br>
   <img height="80px" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
