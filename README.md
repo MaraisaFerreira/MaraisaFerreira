@@ -28,10 +28,7 @@
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=material_palenight&border_radius=5"/>
   <img height="140em" src="https://streak-stats.demolab.com?user=maraisaferreira&theme=material_palenight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D"/>
   <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=maraisaferreira&theme=dracula&column=4&row=1&margin-w=5&margin-h=1&no-frame=true" height="150em" alt="trophy graph"  />
-
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=maraisaferreira&theme=discord&title=Joined2020,Experience,Commits,Repositories&margin-w=10&margin-h=10&no-frame=true&no-bg=true" height="100em" alt="trophy graph"  />  
  
   <!-- <br><br>
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maraisaferreira&theme=tokyonight"/>
