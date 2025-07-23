@@ -39,12 +39,13 @@
 <div align="center" style="display: inline_block">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
   <div align="left">
-  <h3>🛠 Main Skills</h3>
-  <h4>▫ Tools</h4>
-   <div>
-     <img src="https://skillicons.dev/icons?i=github,git,idea,vscode,postman,gradle,maven,npm,yarn">
-      
-  </div>
+  <h2>🛠 Main Skills</h2>
+  <h3>▫ Tools</h3>
+  <img src="https://skillicons.dev/icons?i=github,git,idea,vscode,postman,gradle,maven,npm,yarn,firebase,notion">
+  <h3>▫ Backend</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite">
+  <h3>▫ Database</h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express">
    <br>
   <h4>Frontend:</h4>
   <div>
