@@ -25,8 +25,7 @@
 <div align="center">
   <h2>⭐ Github Stats</h2>
   <a href="https://github.com/maraisaferreira">
-  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=material_palenight&border_radius=5"/>
-  <img height="140em" src="https://streak-stats.demolab.com?user=maraisaferreira&theme=material_palenight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D"/>
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=material_palenight&border_radius=5"/><img height="140em" src="https://streak-stats.demolab.com?user=maraisaferreira&theme=material_palenight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D"/>
   <br><br>
   <img src="https://github-profile-trophy.vercel.app?username=maraisaferreira&theme=discord&title=Joined2020,Experience,Commits,Repositories&column=4&row=1&margin-w=5&margin-h=1&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
   
@@ -36,21 +35,15 @@
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maraisaferreira&theme=tokyonight"/>
   </a> -->
 </div>
-
-##
+<hr>
 <div align="center" style="display: inline_block">
-  <h3>Main Skills</h3>
-  <h4>Backend:</h4>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+  <div align="left">
+  <h3>🛠 Main Skills</h3>
+  <h4>▫ Tools</h4>
    <div>
-     <img align="center" alt="MaraisaFerreira-Node" height="30" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
-     <img align="center" alt="MaraisaFerreira-Node" height="30" src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=Spring&logoColor=white" />
-     <img align="center" alt="MaraisaFerreira-Node" height="30" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-     <img align="center" alt="MaraisaFerreira-Express" height="30" src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white?">
-      <br><br>
-      <img align="center" alt="MaraisaFerreira-SQL" height="30" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1">
-      <img align="center" alt="MaraisaFerreira-MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
-      <img align="center" alt="MaraisaFerreira-Python" height="30" src="https://img.shields.io/badge/Python-4B8BBE?logo=python&logoColor=white">
-      <img align="center" alt="MaraisaFerreira-Django" height="30"  src="https://img.shields.io/badge/Django-0C6141?logo=django&logoColor=white" >
+     <img src="https://skillicons.dev/icons?i=github,git">
+      
   </div>
    <br>
   <h4>Frontend:</h4>
@@ -61,6 +54,7 @@
     <img align="center" alt="MaraisaFerreira-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white">
     <img align="center" alt="MaraisaFerreira-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white"> 
   </div>  
+  </div>
 </div>
   
 ##
