@@ -24,6 +24,7 @@
 ##
 <br>
 <div align="center">
+  <h2>⭐ Github Stats</h2>
   <a href="https://github.com/maraisaferreira">
   <img height="156em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=dracula&border_radius=5"/><span>&nbsp;&nbsp;&nbsp;</span>
   <img src="https://streak-stats.demolab.com?user=maraisaferreira&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156em" alt="streak graph"  /> <br/><br/>
