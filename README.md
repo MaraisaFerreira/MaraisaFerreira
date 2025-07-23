@@ -42,7 +42,7 @@
   <h3>🛠 Main Skills</h3>
   <h4>▫ Tools</h4>
    <div>
-     <img src="https://skillicons.dev/icons?i=github,git">
+     <img src="https://skillicons.dev/icons?i=github,git,idea,vscode,postman,gradle,maven,npm,yarn">
       
   </div>
    <br>
