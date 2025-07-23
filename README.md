@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6A4FB6,100:4F5A7F">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=50&color=AE81FF&center=true&width=800&height=100&lines=Hey+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+welcome+to+my+github!;I'm+Mara%C3%ADsa+Ferreira%2C+backend+developer." alt="Maraísa Ferreira, backend developer." /></a>
   <br>
-  <img height="70px" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
+  <img height="60em" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img height="70px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <img height="60em" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img height="70px" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+  <img height="60em" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   <!-- <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> -->
   <!-- <img height="80px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"> -->
 </div>
