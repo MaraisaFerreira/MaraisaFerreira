@@ -12,6 +12,14 @@
   <!-- <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> -->
   <!-- <img height="80px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"> -->
 </div>
+
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maraisaferreira/maraisaferreira/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maraisaferreira/maraisaferreira/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maraisaferreira/maraisaferreira/output/pacman-contribution-graph.svg">
+</picture>
+</div>
   
 ##
 <br>
