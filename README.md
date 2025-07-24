@@ -53,9 +53,9 @@ public class Maraisa {
 </div>
 <br>
 <hr>
-<div align="center" style="display: inline_block">  
-  <div align="left" style="display: inline_block">
+<div align="center" style="display: inline_block">
   <h2>🛠 Main Skills</h2>
+  <div align="left" style="display: inline_block">
   <h3>▫ Backend</h3>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,sequelize,python,django&perline=5">
   <div align="right" style="display: inline_block">
@@ -81,13 +81,15 @@ public class Maraisa {
 <br>
 <hr>
 <div align="center">
-  <h3>➕ More:</h3>
+   <h3>➕ More:</h3>
+  <div align="left" style="display: inline_block">
     <br>
   <div align="right" style="display: inline_block">
-    <img src="https://github.com/MaraisaFerreira/MaraisaFerreira/blob/main/assets/computer.png" alt="Computer" min-width="200px" max-width="200px" width="200px" align="right" margin="100em">
+    <img src="https://github.com/MaraisaFerreira/MaraisaFerreira/blob/main/assets/computer.png" alt="Computer" min-width="250px" max-width="250px" width="250px" align="right" margin="100em">
   </div>
   <p>▫ Interested in learning too:</p>
    <img  src="https://skillicons.dev/icons?i=docker,aws,electron&perline=5">
+  </div>
   
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:6A4FB6,100:4F5A7F&section=footer">
