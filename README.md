@@ -53,12 +53,14 @@ public class Maraisa {
 </div>
 <br>
 <hr>
-<div align="center" style="display: inline_block">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-  <div align="left">
+<div align="center" style="display: inline_block">  
+  <div align="left" style="display: inline_block">
   <h2>🛠 Main Skills</h2>
   <h3>▫ Backend</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,django&perline=5">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,sequelize,python,django&perline=5">
+  <div align="right" style="display: inline_block">
+    <img src="https://github.com/MaraisaFerreira/MaraisaFerreira/blob/main/assets/coding.png" alt="Coding" min-width="300px" max-width="300px" width="300px" align="right" margin="100em">
+  </div>
   <h3>▫ Database</h3>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=5">
   <h3>▫ Frontend</h3>
@@ -81,6 +83,9 @@ public class Maraisa {
 <div align="center">
   <h3>➕ More:</h3>
     <br>
+  <div align="right" style="display: inline_block">
+    <img src="https://github.com/MaraisaFerreira/MaraisaFerreira/blob/main/assets/computer.png" alt="Computer" min-width="200px" max-width="200px" width="200px" align="right" margin="100em">
+  </div>
   <p>▫ Interested in learning too:</p>
    <img  src="https://skillicons.dev/icons?i=docker,aws,electron&perline=5">
   
