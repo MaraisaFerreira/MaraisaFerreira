@@ -40,21 +40,14 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
   <div align="left">
   <h2>🛠 Main Skills</h2>
-  <h3>▫ Tools</h3>
-  <img src="https://skillicons.dev/icons?i=github,git,idea,vscode,postman,gradle,maven,npm,yarn,firebase,notion">
   <h3>▫ Backend</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,django&perline=5">
   <h3>▫ Database</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express">
-   <br>
-  <h4>Frontend:</h4>
-  <div>
-    <img align="center" alt="MaraisaFerreira-React" height="30" src="https://img.shields.io/badge/-ReactJs-3178C6?logo=react&logoColor=white">
-    <img align="center" alt="MaraisaFerreira-JS" height="30" src="https://shields.io/badge/JavaScript-dba309?logo=JavaScript&logoColor=white">
-    <!-- <img align="center" alt="MaraisaFerreira-TS" height="30" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF"> -->
-    <img align="center" alt="MaraisaFerreira-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white">
-    <img align="center" alt="MaraisaFerreira-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white"> 
-  </div>  
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=5">
+  <h3>▫ Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,bootstrap&perline=5">
+  <h3>▫ Tools</h3>
+  <img src="https://skillicons.dev/icons?i=github,git,idea,vscode,postman,gradle,maven,npm,yarn,notion&perline=5">
   </div>
 </div>
   
