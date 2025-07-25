@@ -72,7 +72,7 @@ public class Maraisa {
 <br>
 <hr>
 <div align="center">
-  <h2>📧 You can reach me too on: </h2>
+  <h2>📧 You can reach me on: </h2>
     <br>
    <a href="https://www.linkedin.com/in/maraisaferreira" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=5" target="_blank"></a>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -87,8 +87,8 @@ public class Maraisa {
   <div align="right" style="display: inline_block">
     <img src="https://github.com/MaraisaFerreira/MaraisaFerreira/blob/main/assets/computer.png" alt="Computer" min-width="250px" max-width="250px" width="250px" align="right" margin="100em">
   </div>
-  <p>▫ Interested in learning too:</p>
-   <img  src="https://skillicons.dev/icons?i=docker,aws,electron&perline=5">
+  <h5>▫ Next on my list:</h5>
+   <img  src="https://skillicons.dev/icons?i=docker,aws,ts,electron&perline=5">
   </div>
   
   <br><br>
