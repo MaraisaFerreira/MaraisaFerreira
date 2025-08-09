@@ -66,7 +66,7 @@ public class Maraisa {
   <h3>▫ Frontend</h3>
   <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,bootstrap&perline=5">
   <h3>▫ Tools</h3>
-  <img  src="https://skillicons.dev/icons?i=github,git,idea,vscode,postman,gradle,maven,npm,yarn,notion&perline=5">
+  <img  src="https://skillicons.dev/icons?i=github,git,idea,vscode,postman,maven,npm,yarn,notion&perline=5">
   </div>
 </div>
 <br>
