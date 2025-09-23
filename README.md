@@ -18,7 +18,7 @@
 ```java
 public class Maraisa {
     public static final String NAME = "Maraísa Ferreira";
-    public static final String JOB = "Backend Developer";
+    public static final String WORK = "Backend Developer";
 
     public static void dailyRoutine() {
         while(true) {
