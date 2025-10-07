@@ -41,15 +41,15 @@ public class Maraisa {
   <h2>⭐ Github Stats</h2>
   <br>
   <a href="https://github.com/maraisaferreira">
-    <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=material_palenight&border_radius=5" alt="Cards"/><img height="140em" src="https://streak-stats.demolab.com?user=maraisaferreira&theme=material_palenight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="Stats"/> </a>
-    <!-- <br><br>
+    <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=material_palenight&border_radius=5" alt="Cards"/><img height="140em" src="https://streak-stats.demolab.com?user=maraisaferreira&theme=material_palenight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="Stats"/>
+    <br><br>
     <img src="https://github-profile-trophy.vercel.app?username=maraisaferreira&theme=discord&title=Joined2020,Experience,Commits,Repositories&column=4&row=1&margin-w=5&margin-h=1&no-frame=true&no-bg=true" height="150" alt="Trophy Graph"  />
-  </a> -->
+  </a>
  
-   <br><br>
+   <!-- <br><br>
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maraisaferreira&theme=tokyonight"/>
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maraisaferreira&theme=tokyonight"/>
-  </a> 
+  </a> -->
 </div>
 <br>
 <hr>
