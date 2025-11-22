@@ -62,12 +62,7 @@ public class Maraisa {
   <img src="https://github.com/MaraisaFerreira/MaraisaFerreira/blob/main/assets/coding.png" alt="Coding" min-width="300px" max-width="300px" width="300px" align="right" margin="100em">
   </div>
   <h3>▫ Database</h3>
-  <img height="45em" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" alt="Java">
-  <span>&nbsp;</span>
-  <img height="45em" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" alt="Spring">
-  <span>&nbsp;</span>
-  <span>&nbsp;</span>
-  <img  src="https://skillicons.dev/icons?i=sqlite&perline=5">
+  <img  src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=5&theme=light">
   <h3>▫ Frontend</h3>
   <img height="45em" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="Java">
   <span>&nbsp;</span>
