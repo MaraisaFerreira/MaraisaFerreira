@@ -42,8 +42,8 @@ public class Maraisa {
   <br>
   <a href="https://github.com/maraisaferreira">
     <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maraisaferreira&theme=material_palenight&border_radius=5" alt="Cards"/><img height="140em" src="https://streak-stats.demolab.com?user=maraisaferreira&theme=material_palenight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="Stats"/>
-    <br><br>
-    <img src="https://github-profile-trophy.vercel.app?username=maraisaferreira&theme=discord&title=Joined2020,Experience,Commits,Repositories&column=4&row=1&margin-w=5&margin-h=1&no-frame=true&no-bg=true" height="150" alt="Trophy Graph"  />
+  <!--  <br><br>
+    <img src="https://github-profile-trophy.vercel.app?username=maraisaferreira&theme=discord&title=Joined2020,Experience,Commits,Repositories&column=4&row=1&margin-w=5&margin-h=1&no-frame=true&no-bg=true" height="150" alt="Trophy Graph"  /> -->
   </a>
  
    <!-- <br><br>
@@ -57,9 +57,15 @@ public class Maraisa {
   <h2>🛠 Main Skills</h2>
   <div align="left" style="display: inline_block">
   <h3>▫ Backend</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,sequelize&perline=5">
+  <img height="45em" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="Java">
+  <span>&nbsp;</span>
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring">
+  <span>&nbsp;</span>
+  <img height="45em" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" alt="Node.js">
+  <span>&nbsp;</span>
+  <img height="45em" src="https://icongr.am/devicon/express-original.svg?size=128&color=4af626" alt="Node.js">
   <div align="right" style="display: inline_block">
-    <img src="https://github.com/MaraisaFerreira/MaraisaFerreira/blob/main/assets/coding.png" alt="Coding" min-width="300px" max-width="300px" width="300px" align="right" margin="100em">
+  <img src="https://github.com/MaraisaFerreira/MaraisaFerreira/blob/main/assets/coding.png" alt="Coding" min-width="300px" max-width="300px" width="300px" align="right" margin="100em">
   </div>
   <h3>▫ Database</h3>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=5">
