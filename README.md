@@ -63,7 +63,7 @@ public class Maraisa {
   <span>&nbsp;</span>
   <img height="45em" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" alt="Node.js">
   <span>&nbsp;</span>
-  <img height="45em" src="https://icongr.am/devicon/express-original.svg?size=128&color=4af626" alt="Node.js">
+  <img height="45em" src="https://icongr.am/devicon/express-original.svg?size=128&color=77bc1f" alt="Node.js">
   <div align="right" style="display: inline_block">
   <img src="https://github.com/MaraisaFerreira/MaraisaFerreira/blob/main/assets/coding.png" alt="Coding" min-width="300px" max-width="300px" width="300px" align="right" margin="100em">
   </div>
