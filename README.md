@@ -57,14 +57,7 @@ public class Maraisa {
   <h2>🛠 Main Skills</h2>
   <div align="left" style="display: inline_block">
   <h3>▫ Backend</h3>
-  <img height="45em" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="Java">
-  <span>&nbsp;</span>
-  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring">
-  <span>&nbsp;</span>
-  <img height="45em" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" alt="Node.js">
-  <span>&nbsp;</span>
-  <img height="45em" src="https://icongr.am/devicon/express-original.svg?size=128&color=77bc1f" alt="Node.js">
-  <span>&nbsp;</span>
+  <img  src="https://skillicons.dev/icons?i=java,spring,nodejs,express&perline=5&theme=light">
   <div align="right" style="display: inline_block">
   <img src="https://github.com/MaraisaFerreira/MaraisaFerreira/blob/main/assets/coding.png" alt="Coding" min-width="300px" max-width="300px" width="300px" align="right" margin="100em">
   </div>
