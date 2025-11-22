@@ -64,15 +64,42 @@ public class Maraisa {
   <img height="45em" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" alt="Node.js">
   <span>&nbsp;</span>
   <img height="45em" src="https://icongr.am/devicon/express-original.svg?size=128&color=77bc1f" alt="Node.js">
+  <span>&nbsp;</span>
   <div align="right" style="display: inline_block">
   <img src="https://github.com/MaraisaFerreira/MaraisaFerreira/blob/main/assets/coding.png" alt="Coding" min-width="300px" max-width="300px" width="300px" align="right" margin="100em">
   </div>
   <h3>▫ Database</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=5">
+  <img height="45em" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" alt="Java">
+  <span>&nbsp;</span>
+  <img height="45em" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" alt="Spring">
+  <span>&nbsp;</span>
+  <span>&nbsp;</span>
+  <img  src="https://skillicons.dev/icons?i=sqlite&perline=5">
   <h3>▫ Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,bootstrap&perline=5">
+  <img height="45em" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="Java">
+  <span>&nbsp;</span>
+  <img height="45em" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="Spring">
+  <span>&nbsp;</span>
+  <img height="45em" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="Node.js">
+  <span>&nbsp;</span> <br>
+  <img height="45em" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="Java">
+  <span>&nbsp;</span>
+  <img src="https://skillicons.dev/icons?i=vite">
+  <span>&nbsp;</span>
+  <img height="45em" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=813d9c" alt="Spring">
+  <span>&nbsp;</span>  
   <h3>▫ Tools</h3>
-  <img  src="https://skillicons.dev/icons?i=github,git,idea,vscode,postman,maven,npm,yarn,notion&perline=5">
+  <img height="45em" src="https://icongr.am/devicon/git-original.svg?size=128&color=813d9c" alt="Java">
+  <span>&nbsp;</span>
+  <img height="45em" src="https://icongr.am/devicon/github-original.svg?size=128&color=f6f5f4" alt="Spring">
+  <span>&nbsp;</span>
+  <img  src="https://skillicons.dev/icons?i=maven">
+  <span>&nbsp;</span>
+  <img height="45em" src="https://icongr.am/devicon/yarn-original.svg?size=128&color=f6f5f4" alt="Spring">
+  <span>&nbsp;</span>
+  <img height="45em" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=f6f5f4" alt="Spring">
+  <span>&nbsp;</span> <br><br>
+  <img  src="https://skillicons.dev/icons?i=linux,idea,vscode,postman,notion&perline=5"> 
   </div>
 </div>
 <br>
